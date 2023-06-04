@@ -1,0 +1,6 @@
+{
+  "private": "true",
+  "name": "redirect",
+  "description": "Quickly redirect to a URL",
+  "license": "MIT"
+}
